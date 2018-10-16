@@ -1,0 +1,66 @@
+body {
+    background: linear-gradient(to right, #e91e63, blue);
+    text-align: center;
+}
+
+h1{
+    font-size: 70px;
+    color: white;
+}
+.space {
+    width: 261px;
+    background: #fff8dc;
+}
+#display{
+    width: 254px;
+    height: 60px;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 8px;
+    margin: 3px;
+}
+#result {
+    width: 254px;
+    height: 60px;
+    text-align: right;
+    font-size: 20px;
+    border-radius: 8px;
+    margin: 3px;
+}
+
+.firstbox {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin: 3px;
+}
+.secondbox {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin: 3px;
+}
+.thirdbox {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin: 3px;
+}
+.fourthbox {
+    width: 60px;
+    height: 60px;
+    font-size: 30px;
+    border-radius: 8px;
+    margin: 3px;
+}
+.runbox {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 8px;
+    margin: 3px;
+    background-color: green;
+}
